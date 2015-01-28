@@ -22,4 +22,10 @@ plink --bfile data1 --filter-males --make-bed --out males
 
 plink --bfile datafile --missing --mind 0.05 --geno 0.05 --maf 0.05 --hwe 0.001 --make-bed --out outputfile
 
+Order: --mind, --maf, --geno, --hwe, --me
+
+missing rate per person, minor allele frequency, missing rate per SNP, HWE test, Mendel error rate
+
 [Inclusion thresholds](http://pngu.mgh.harvard.edu/~purcell/plink/thresh.shtml)
+
+
