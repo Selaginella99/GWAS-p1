@@ -28,4 +28,12 @@ missing rate per person, minor allele frequency, missing rate per SNP, HWE test,
 
 [Inclusion thresholds](http://pngu.mgh.harvard.edu/~purcell/plink/thresh.shtml)
 
+### Summary statistics 
+
+[Summary statistics](http://pngu.mgh.harvard.edu/~purcell/plink/summary.shtml) of the individuals/sample, quality of the chips.
+
+### Reference commands
+
+[Reference options](http://pngu.mgh.harvard.edu/~purcell/plink/reference.shtml)
+
 
