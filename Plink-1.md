@@ -32,7 +32,7 @@ missing rate per person, minor allele frequency, missing rate per SNP, HWE test,
 
 [Summary statistics](http://pngu.mgh.harvard.edu/~purcell/plink/summary.shtml) of the individuals/sample, quality of the chips.
 
-plink --bfile datafile --hardy; plink --file datafile --freq; plink --bfile datafile --check-sex
+plink --bfile datafile --hardy --out ; plink --file datafile --freq --out ; plink --bfile datafile --check-sex --out
 
 ### Epistasis
 [Epistasis](http://pngu.mgh.harvard.edu/~purcell/plink/epi.shtml) without covariates.
