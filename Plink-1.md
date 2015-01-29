@@ -32,8 +32,17 @@ missing rate per person, minor allele frequency, missing rate per SNP, HWE test,
 
 [Summary statistics](http://pngu.mgh.harvard.edu/~purcell/plink/summary.shtml) of the individuals/sample, quality of the chips.
 
+### Epistasis
+[Epistasis](http://pngu.mgh.harvard.edu/~purcell/plink/epi.shtml) without covariates.
+
+[Association analysis](http://pngu.mgh.harvard.edu/~purcell/plink/anal.shtml#glm) & [Covariant regression](https://www.cog-genomics.org/plink2/assoc#linear)
+
 ### Reference commands
 
 [Reference options](http://pngu.mgh.harvard.edu/~purcell/plink/reference.shtml)
+
+### Distributed computation
+
+[Parallelising plink](http://chrisladroue.com/2012/03/parallelising-plink-or-anything-else-the-easy-way/?nsukey), [Plink 2](https://www.cog-genomics.org/plink2/parallel) in BGI.
 
 
