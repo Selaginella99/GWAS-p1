@@ -16,7 +16,7 @@ plink --bfile data1 --thin 0.2 --make-bed --out random20
 
 #### filter out a subset of individuals
 
-plink --bfile data1 --filter-males --make-bed --out males
+plink --bfile data1 --filter-males --make-bed --out males; plink --bfile data1 --filter-founders --make-bed --out founders (founders are fewer than non-founders)
 
 ### QC procedure 
 
