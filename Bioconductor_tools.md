@@ -7,7 +7,7 @@ Data used in the examples and vignettes of the GWASTools package [3.0](http://ww
 
 Tools for Genome Wide Association Studies [3.0](http://www.bioconductor.org/packages/release/bioc/html/GWASTools.html),
 [development 3.1](http://www.bioconductor.org/packages/devel/bioc/html/GWASTools.html), include: 
-Data formats in GWASTools, GWAS [Data Cleaning](http://www.bioconductor.org/packages/release/bioc/vignettes/GWASTools/inst/doc/DataCleaning.pdf), Preparing Affymetrix Data, Reference Manual & NEWS
+Data formats in GWASTools, GWAS [Data Cleaning](http://www.bioconductor.org/packages/release/bioc/vignettes/GWASTools/inst/doc/DataCleaning.pdf), Preparing Affymetrix Data, Reference Manual & NEWS| additional [infor](http://bioinformatics.lofter.com/view)
 
 ## SNPRelate
 
