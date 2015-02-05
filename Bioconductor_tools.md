@@ -17,3 +17,5 @@ Parallel computing toolset for relatedness and principal component analysis of S
 ## Software
 
 Software tools in [Broad Institute](http://www.broadinstitute.org/scientific-community/software)
+
+A Compilation of Some Available Software for Linkage Disequilibrium Analysis on the Online Encyclopedia for Genetic Epidemiology [OEGE](http://www.genes.org.uk/software/LD-software.shtml)
