@@ -13,3 +13,7 @@ Data formats in GWASTools, GWAS [Data Cleaning](http://www.bioconductor.org/pack
 
 Parallel computing toolset for relatedness and principal component analysis of SNP data 
 [gdsfmt and SNPRelate](http://www.bioconductor.org/packages/release/bioc/html/SNPRelate.html).
+
+## Software
+
+Software tools in [Broad Institute](http://www.broadinstitute.org/scientific-community/software)
