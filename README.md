@@ -2,7 +2,7 @@
 This is a repo for basic analysis of genome-wide association studies
 
 Tools:
-[PLINK](http://pngu.mgh.harvard.edu/~purcell/plink/tutorial.shtml), [Haploview](http://www.broadinstitute.org/haploview/haploview).
+[PLINK](http://pngu.mgh.harvard.edu/~purcell/plink/tutorial.shtml), [Haploview](http://www.broadinstitute.org/haploview/haploview). A Compilation of Some Available [Software](http://www.genes.org.uk/software/LD-software.shtml) for [Linkage Disequilibrium Analysis](https://www.biostars.org/p/2909/).
 
 [Genomic Medicine and Statistics Doctoral Training Centre](http://www.well.ox.ac.uk/dtc/) 
 
