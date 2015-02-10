@@ -2,6 +2,7 @@
 linked SNPs and small indels can be visualized along with their predicted chromatin state.
 Using HaploReg and RegulomeDB to [mine](http://www.genome.gov/Pages/Research/ENCODE/ASHG_2013_Using_HaploReg_RegulomeDB_to_Mine_ENCODE_Data.pdf) ENCODE data.
 
+[SNAP]
 [SNPinfo Web Server](http://snpinfo.niehs.nih.gov/) for SNP selection and functional information
 
 HaploReg is a full featured genome browsers for developing hyptheses of the non-coding variants on diseases, clinical phenotypes and normal variations. It uses LD information from the 1000 Genomes Project to explore regulatory motif alteraions (ENCODE experiments), enhancer annotation (Epigenome Mapping Consortium), eQTLs (GTex eQTL browser), chromatin states and etc.
