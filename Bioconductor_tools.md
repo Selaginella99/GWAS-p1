@@ -19,3 +19,5 @@ Parallel computing toolset for relatedness and principal component analysis of S
 Software tools in [Broad Institute](http://www.broadinstitute.org/scientific-community/software)
 
 A Compilation of Some Available Software for Linkage Disequilibrium Analysis on the Online Encyclopedia for Genetic Epidemiology [OEGE](http://www.genes.org.uk/software/LD-software.shtml)
+
+[SNPnexus](http://snp-nexus.org/about.html) is designed to assist in the selection of functionally relevant Single Nucleotide Polymorphisms (SNP) for large-scale genotyping studies of multifactorial disorders. 
