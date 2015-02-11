@@ -9,4 +9,6 @@ Using [HaploReg](http://nar.oxfordjournals.org/content/40/D1/D930.full) and Regu
 
 HaploReg is a full featured genome browsers for developing hyptheses of the non-coding variants on diseases, clinical phenotypes and normal variations. It uses LD information from the 1000 Genomes Project to explore regulatory motif alteraions (ENCODE experiments), enhancer annotation (Epigenome Mapping Consortium), eQTLs (GTex eQTL browser), chromatin states and etc.
 
+[Hapmap](http://hapmap.ncbi.nlm.nih.gov/cgi-perl/gbrowse/hapmap28_B36/) is to identify and catalog genetic similarities and differences in human beings.
+
 A Compilation of Some Available [Software](http://www.genes.org.uk/software/LD-software.shtml) for [Linkage Disequilibrium Analysis](https://www.biostars.org/p/2909/).
