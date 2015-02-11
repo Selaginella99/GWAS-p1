@@ -9,7 +9,7 @@ Using [HaploReg](http://nar.oxfordjournals.org/content/40/D1/D930.full) and Regu
 [SNAP](http://www.broadinstitute.org/mpg/snap/) finds proxy SNPs based on LD, physical distance and/or membership in selected commercial genotyping arrays (the International HapMap Project & the 1000 Genomes Project). 
 [SNPinfo Web Server](http://snpinfo.niehs.nih.gov/) for SNP selection and functional information
 
-HaploReg is a full featured genome browsers for developing hyptheses of the non-coding variants on diseases, clinical phenotypes and normal variations. It uses LD information from the 1000 Genomes Project to explore regulatory motif alteraions (ENCODE experiments), enhancer annotation (Epigenome Mapping Consortium), eQTLs (GTex eQTL browser), chromatin states and etc.
+HaploReg is a full featured genome browsers for developing hypotheses of the non-coding variants on diseases, clinical phenotypes and normal variations. It uses LD information from the 1000 Genomes Project to explore regulatory motif alterations (ENCODE experiments), enhancer annotation (Epigenome Mapping Consortium), eQTLs (GTex eQTL browser), chromatin states and etc.
 
 [Hapmap](http://hapmap.ncbi.nlm.nih.gov/cgi-perl/gbrowse/hapmap28_B36/) is to identify and catalog genetic similarities and differences in human beings.
 
