@@ -49,4 +49,9 @@ plink --bfile datafile --hardy --out ; plink --file datafile --freq --out ; plin
 
 [Parallelising plink](http://chrisladroue.com/2012/03/parallelising-plink-or-anything-else-the-easy-way/?nsukey), [Plink 2](https://www.cog-genomics.org/plink2/parallel) in BGI.
 
+### LD calculations
+
+plink --bfile datafile --ld rs1 rs2 --out ;
+
+[LD calculations](http://pngu.mgh.harvard.edu/~purcell/plink/ld.shtml)
 
