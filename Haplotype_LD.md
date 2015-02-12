@@ -6,6 +6,8 @@ is a full featured genome browsers for developing hypotheses of the non-coding v
 [RegulomeDB](http://regulome.stanford.edu/about) is a [database](http://genome.cshlp.org/content/22/9/1790.long) that annotates SNPs with known and predicted regulatory elements in the intergenic regions of the H. sapiens genome. 
 Using [HaploReg](http://nar.oxfordjournals.org/content/40/D1/D930.full) and RegulomeDB to [mine](http://www.genome.gov/Pages/Research/ENCODE/ASHG_2013_Using_HaploReg_RegulomeDB_to_Mine_ENCODE_Data.pdf) ENCODE data.
 
+[ANNOVAR](http://www.openbioinformatics.org/annovar/annovar_startup.html) can utilize functional annotation of genetic variants from high-throughput sequencing data ([like](http://nar.oxfordjournals.org/content/38/16/e164.long#T1) in the 1000 Genomes Project and dbSNP).
+
 [SNAP](http://www.broadinstitute.org/mpg/snap/) finds proxy SNPs based on LD, physical distance and/or membership in selected commercial genotyping arrays (the International HapMap Project & the 1000 Genomes Project). 
 [SNPinfo Web Server](http://snpinfo.niehs.nih.gov/) for SNP selection and functional information
 
