@@ -21,3 +21,5 @@ Software tools in [Broad Institute](http://www.broadinstitute.org/scientific-com
 A Compilation of Some Available Software for Linkage Disequilibrium Analysis on the Online Encyclopedia for Genetic Epidemiology [OEGE](http://www.genes.org.uk/software/LD-software.shtml)
 
 [SNPnexus](http://snp-nexus.org/about.html) is designed to assist in the selection of functionally relevant Single Nucleotide Polymorphisms (SNP) for large-scale genotyping studies of multifactorial disorders. 
+
+Methods of integrating data to uncover genotype-phenotype interactions introduced multi-staged analysis and [meta-dimensional analysis](http://www.nature.com/nrg/journal/v16/n2/full/nrg3868.html).
