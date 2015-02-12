@@ -22,4 +22,5 @@ A Compilation of Some Available Software for Linkage Disequilibrium Analysis on 
 
 [SNPnexus](http://snp-nexus.org/about.html) is designed to assist in the selection of functionally relevant Single Nucleotide Polymorphisms (SNP) for large-scale genotyping studies of multifactorial disorders. 
 
+## Reference
 Methods of integrating data to uncover genotype-phenotype interactions introduced multi-staged analysis and [meta-dimensional analysis](http://www.nature.com/nrg/journal/v16/n2/full/nrg3868.html).
