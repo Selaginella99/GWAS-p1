@@ -24,3 +24,6 @@ A Compilation of Some Available Software for Linkage Disequilibrium Analysis on 
 
 ## Reference
 Methods of integrating data to uncover genotype-phenotype interactions introduced multi-staged analysis and [meta-dimensional analysis](http://www.nature.com/nrg/journal/v16/n2/full/nrg3868.html).
+
+[Applications of next-generation sequencing](http://www.nature.com/nrg/series/nextgeneration/index.html).
+- [Sequencing pools of individuals — mining genome-wide polymorphism data without big funding](http://www.nature.com/nrg/journal/v15/n11/full/nrg3803.html#affil-auth)
