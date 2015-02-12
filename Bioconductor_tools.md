@@ -27,3 +27,4 @@ Methods of integrating data to uncover genotype-phenotype interactions introduce
 
 [Applications of next-generation sequencing](http://www.nature.com/nrg/series/nextgeneration/index.html).
 - [Sequencing pools of individuals — mining genome-wide polymorphism data without big funding](http://www.nature.com/nrg/journal/v15/n11/full/nrg3803.html#affil-auth)
+- [Recent advances in genomic DNA sequencing of microbial species from single cells](http://www.nature.com/nrg/journal/v15/n9/full/nrg3785.html).
