@@ -27,4 +27,5 @@ Methods of integrating data to uncover genotype-phenotype interactions introduce
 
 [Applications of next-generation sequencing](http://www.nature.com/nrg/series/nextgeneration/index.html).
 - [Sequencing pools of individuals — mining genome-wide polymorphism data without big funding](http://www.nature.com/nrg/journal/v15/n11/full/nrg3803.html#affil-auth)
-- [Single-cell sequencing-based technologies will revolutionize whole-organism science](Single-cell sequencing-based technologies will revolutionize whole-organism science).
+- [Single-cell sequencing-based technologies will revolutionize whole-organism science](Single-cell sequencing-based technologies will revolutionize whole-organism science)
+- [Mapping and analysis of chromatin state dynamics in nine human cell types](http://www.nature.com/nature/journal/v473/n7345/full/nature09906.html)
