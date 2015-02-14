@@ -29,3 +29,4 @@ Methods of integrating data to uncover genotype-phenotype interactions introduce
 - [Sequencing pools of individuals — mining genome-wide polymorphism data without big funding](http://www.nature.com/nrg/journal/v15/n11/full/nrg3803.html#affil-auth)
 - [Single-cell sequencing-based technologies will revolutionize whole-organism science](Single-cell sequencing-based technologies will revolutionize whole-organism science)
 - [Mapping and analysis of chromatin state dynamics in nine human cell types](http://www.nature.com/nature/journal/v473/n7345/full/nature09906.html)
+- [Basic statistical analysis in genetic case-control studies](http://www.nature.com/nprot/journal/v6/n2/full/nprot.2010.182.html) (Clarke *et al*. 2011, Nature Protocols 6: 121-33)
