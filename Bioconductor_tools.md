@@ -30,3 +30,5 @@ Methods of integrating data to uncover genotype-phenotype interactions introduce
 - [Single-cell sequencing-based technologies will revolutionize whole-organism science](Single-cell sequencing-based technologies will revolutionize whole-organism science)
 - [Mapping and analysis of chromatin state dynamics in nine human cell types](http://www.nature.com/nature/journal/v473/n7345/full/nature09906.html)
 - [Basic statistical analysis in genetic case-control studies](http://www.nature.com/nprot/journal/v6/n2/full/nprot.2010.182.html) (Clarke *et al*. 2011, Nature Protocols 6: 121-33)
+- [Big biology: The ’omes puzzle](http://www.nature.com/news/big-biology-the-omes-puzzle-1.12484#/b7), [Chi](http://www.bio360.net/news/show/4458.html); [Personal Omics Profiling Reveals Dynamic Molecular and Medical Phenotypes](http://www.cell.com/abstract/S0092-8674%2812%2900166-3).
+- [Summarizing polygenic risks for complex diseases in a clinical whole-genome report](http://www.nature.com/gim/journal/vaop/ncurrent/full/gim2014143a.html)
