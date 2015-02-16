@@ -32,3 +32,4 @@ Methods of integrating data to uncover genotype-phenotype interactions introduce
 - [Basic statistical analysis in genetic case-control studies](http://www.nature.com/nprot/journal/v6/n2/full/nprot.2010.182.html) (Clarke *et al*. 2011, Nature Protocols 6: 121-33)
 - [Big biology: The ’omes puzzle](http://www.nature.com/news/big-biology-the-omes-puzzle-1.12484#/b7), [Chi](http://www.bio360.net/news/show/4458.html); [Personal Omics Profiling Reveals Dynamic Molecular and Medical Phenotypes](http://www.cell.com/abstract/S0092-8674%2812%2900166-3).
 - [Summarizing polygenic risks for complex diseases in a clinical whole-genome report](http://www.nature.com/gim/journal/vaop/ncurrent/full/gim2014143a.html)
+- [Illumina押对了基因测序，下一位颠覆行业的是谁](http://www.biodiscover.com/news/celebrity/116805.html)
