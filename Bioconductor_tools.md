@@ -14,6 +14,8 @@ Data formats in GWASTools, GWAS [Data Cleaning](http://www.bioconductor.org/pack
 Parallel computing toolset for relatedness and principal component analysis of SNP data 
 [gdsfmt and SNPRelate](http://www.bioconductor.org/packages/release/bioc/html/SNPRelate.html).
 
+[EINVis](http://www.ybwu.net/einvis/): A visualization tool for analyzing and exploring genetic interactions in large-scale association studies
+
 ## Software
 
 Software tools in [Broad Institute](http://www.broadinstitute.org/scientific-community/software)
