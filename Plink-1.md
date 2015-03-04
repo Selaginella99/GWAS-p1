@@ -28,6 +28,8 @@ Order: --mind, --maf, --geno, --hwe, --me
 
 missing rate per person, minor allele frequency, missing rate per SNP, HWE test, Mendel error rate
 
+plink --bfile datafile --mendel --out datafile
+
 [Inclusion thresholds](http://pngu.mgh.harvard.edu/~purcell/plink/thresh.shtml)
 
 ### Summary statistics 
