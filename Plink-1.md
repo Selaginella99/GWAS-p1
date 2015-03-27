@@ -38,6 +38,12 @@ plink --bfile datafile --mendel --out datafile
 
 plink --bfile datafile --hardy --out ; plink --file datafile --freq --out ; plink --bfile datafile --check-sex --out  ; plink --bfile datafile --keep file.txt(famID, ID) --make-bed --out datafile2
 
+### Association analysis
+
+[Association analysis](http://pngu.mgh.harvard.edu/~purcell/plink/anal.shtml) based on different [phenotype files] (http://pngu.mgh.harvard.edu/~purcell/plink/data.shtml#pheno)
+
+plink --bfile datafile --pheno pheno.txt --mpheno No.x/ --pheno-name bmi --assoc --out assoc.data
+
 ### Epistasis
 [Epistasis](http://pngu.mgh.harvard.edu/~purcell/plink/epi.shtml) without covariates.
 
