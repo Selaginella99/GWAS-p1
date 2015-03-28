@@ -44,6 +44,9 @@ plink --bfile datafile --hardy --out ; plink --file datafile --freq --out ; plin
 
 plink --bfile datafile --pheno pheno.txt --mpheno No.x/ --pheno-name bmi --assoc --out assoc.data
 
+e.g.  plink --ped IBCqc_m.ped --map IBCqc.map --pheno lifespan_data.txt --pheno-name ls_bi --assoc --out assoc_m
+
+
 ### Epistasis
 [Epistasis](http://pngu.mgh.harvard.edu/~purcell/plink/epi.shtml) without covariates.
 
