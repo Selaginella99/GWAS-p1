@@ -1,5 +1,5 @@
 ## set the right direcotry
- cd Project/Tools/Golden\ Helix/Training/Data_test_FRAM/IBC\ GRU\ +\ NPU/IBC49K
+cd Project/Tools/Golden\ Helix/Training/Data_test_FRAM/IBC\ GRU\ +\ NPU/IBC49K
 ## build up a better folder name to make everything easier 
 
 ## QC before any analysis
