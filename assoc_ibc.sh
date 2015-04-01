@@ -31,7 +31,7 @@ awk '$9 < 0.05 {print}' rs_assoc_m.assoc > select_rs_m.txt
 
 ### R coding for recoding the phenotype data
 lifespan=read.csv("Z:/Project/Framingham/Data/Phenotype/FHS/lifespan_data.csv",head=T,as.is=T)
-lifespan$ls_binary[(lifespan$lifespan>92)]<-2
+lifespan$ls_binary[(lifespan$lifespan>92)]<-2 # http://www.cookbook-r.com/Manipulating_data/Recoding_data/
 lifespan$ls_binary[(lifespan$lifespan<85)]<-1
 write.csv(lifespan,file="Z:/Project/Framingham/Data/Phenotype/FHS/lifespan_b_data.csv",row.names=F)
 
