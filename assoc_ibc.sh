@@ -74,8 +74,8 @@ table(rsweights$Sex,rsweights$c_rsw)
 #  females      180   245
 png("Rs_weight_FHSori.png",width=800,height=600)
 ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+
-geom_density(alpha=.3)+geom_vline(xintercep=-0.005)+facet_grid(Sex~.)+
-ggtitle("Histograms of the right slope of weight in FHSorig (211+425)")+theme(plot.title=element_text(size=18))
+geom_density(alpha=.3)+geom_vline(xintercep=-0.005)+annotate("text",x=0.6,y=50,label="cutoff = - 0.005",size=6)+facet_grid(Sex~.)+
+ggtitle("Histograms of the right slope of weight in FHSorig 626 (211+425)")+theme(plot.title=element_text(size=18))
 ###p=ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+geom_density(alpha=.3)
 ###p+geom_vline(xintercep=-0.002)+facet_grid(Sex~.)+ggtitle("Histograms of the right slope of weight in FHSorig (636)")
 ##  https://github.com/mbostock/d3/wiki/Ordinal-Scales
@@ -107,5 +107,5 @@ summary(rsweights_m$slp_weight)
 png("Rs_weight_FHSori_M.png",width=800,height=600)
 q=ggplot(rsweights_m,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="#6baed6",colour="black",binwidth=0.05)+geom_density(alpha=.3)
 q+geom_vline(xintercep=-0.00848)+ggtitle("Histograms of the right slope of weight in FHSorig males (211)")+theme(plot.title=element_text(size=18))+
-annotate("text",x=0.3,y=20,label="median = -0.0085",size=6)
+annotate("text",x=0.3,y=20,label="median = - 0.0085",size=6)
 dev.off()
