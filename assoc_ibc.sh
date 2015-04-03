@@ -83,8 +83,6 @@ dev.off()
 write.csv(rsweights,file="Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsw_assoc.csv",row.names=F)
 
 rsweights_f=rsweights[rsweights$Sex=="females",]
-rsweights_m=rsweights[rsweights$Sex=="males",]
-
 summ(rsweights_f$slp_weight)
 #  obs. mean   median  s.d.   min.   max.  
 #  425  0.052  0.027   0.23   -0.86  1.012 
@@ -111,4 +109,3 @@ q=ggplot(rsweights_m,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="#6baed6",c
 q+geom_vline(xintercep=-0.00848)+ggtitle("Histograms of the right slope of weight in FHSorig males (211)")+theme(plot.title=element_text(size=18))+
 annotate("text",x=0.3,y=20,label="median = -0.0085",size=6)
 dev.off()
-
