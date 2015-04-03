@@ -74,7 +74,10 @@ table(rsweights$Sex,rsweights$c_rsw)
 #  females      180   245
 png("Rs_weight_FHSori.png",width=800,height=600)
 ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+
-     geom_density(alpha=.3)+geom_vline(xintercep=-0.005)+facet_grid(Sex~.)
+geom_density(alpha=.3)+geom_vline(xintercep=-0.005)+facet_grid(Sex~.)+
+ggtitle("Histograms of the right slope of weight in FHSorig (636)")
+#p=ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+geom_density(alpha=.3)
+#p+geom_vline(xintercep=-0.002)+facet_grid(Sex~.)+ggtitle("Histograms of the right slope of weight in FHSorig (636)")
 dev.off()
 write.csv(rsweights,file="Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsw_assoc.csv",row.names=F)
 
