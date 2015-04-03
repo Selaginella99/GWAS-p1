@@ -72,7 +72,9 @@ table(rsweights$Sex,rsweights$c_rsw)
 #           controls cases
 #  males        107   104
 #  females      180   245
+png("Rs_weight_FHSori.png",width=800,height=600)
 ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+
-geom_density(alpha=.3)+geom_vline(xintercep=-0.005)+facet_grid(Sex~.)
+     geom_density(alpha=.3)+geom_vline(xintercep=-0.005)+facet_grid(Sex~.)
+dev.off()
 write.csv(rsweights,file="Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsw_assoc.csv",row.names=F)
 
