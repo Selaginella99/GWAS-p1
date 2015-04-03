@@ -47,3 +47,15 @@ rsweights$rsw_bi[rsweights$slp_weight>(-0.15)&rsweights$Sex==2]<-2
 #head(rsweight)
 write.csv(rsweights[,c(1,14,2,3,15:17,21,22)],file="Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsweight.csv",row.names=F)
 ## only keep the useful columns
+
+## plot the histograms of the right slope of weight
+library(ggplot2)
+library(epicalc)
+rsweight=read.csv("Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsweight.csv",head=T,as.is=T)
+#head(rsweight)
+rsweight$sex <- cut(rsweight$Sex.1, breaks=c(-Inf, 1.1, Inf), labels=c("males","females"))
+rsweight$c_rsw <- cut(rsweight$slp_weight, breaks=c(-Inf, -0.018, Inf), labels=c("controls","cases"))
+#head(rsweight)
+ggplot(rsweight,aes(x=slp_weight,fill=sex))+geom_histogram(fill="white",colour="black",binwidth=0.5,
+position="identity",alpha=0.4)+geom_density(alpha=.3)+geom_vline(xintercep=-0.018)+facet_grid(sex~.)
+
