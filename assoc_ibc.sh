@@ -75,9 +75,40 @@ table(rsweights$Sex,rsweights$c_rsw)
 png("Rs_weight_FHSori.png",width=800,height=600)
 ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+
 geom_density(alpha=.3)+geom_vline(xintercep=-0.005)+facet_grid(Sex~.)+
-ggtitle("Histograms of the right slope of weight in FHSorig (636)")
-#p=ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+geom_density(alpha=.3)
-#p+geom_vline(xintercep=-0.002)+facet_grid(Sex~.)+ggtitle("Histograms of the right slope of weight in FHSorig (636)")
+ggtitle("Histograms of the right slope of weight in FHSorig (211+425)")+theme(plot.title=element_text(size=18))
+###p=ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+geom_density(alpha=.3)
+###p+geom_vline(xintercep=-0.002)+facet_grid(Sex~.)+ggtitle("Histograms of the right slope of weight in FHSorig (636)")
+##  https://github.com/mbostock/d3/wiki/Ordinal-Scales
 dev.off()
 write.csv(rsweights,file="Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsw_assoc.csv",row.names=F)
+
+rsweights_f=rsweights[rsweights$Sex=="females",]
+rsweights_m=rsweights[rsweights$Sex=="males",]
+
+summ(rsweights_f$slp_weight)
+#  obs. mean   median  s.d.   min.   max.  
+#  425  0.052  0.027   0.23   -0.86  1.012 
+summary(rsweights_f$slp_weight)
+#    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+# -0.85970 -0.06737  0.02665  0.05202  0.16330  1.01200 
+
+png("Rs_weight_FHSori_F.png",width=800,height=600)
+p=ggplot(rsweights_f,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="#d6616b",colour="black",binwidth=0.06)+geom_density(alpha=.3)
+p+geom_vline(xintercep=-0.02665)+ggtitle("Histograms of the right slope of weight in FHSorig females (425)")+theme(plot.title=element_text(size=18))
++annotate("text",x=0.5,y=40,label="median = 0.02665",size=6)
+dev.off()
+
+rsweights_m=rsweights[rsweights$Sex=="males",]
+summ(rsweights_m$slp_weight)
+#  obs. mean   median  s.d.   min.   max.  
+#  211  0.005  -0.008  0.21   -0.462 0.974 
+summary(rsweights_m$slp_weight)
+#     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+# -0.461700 -0.130800 -0.008480  0.004596  0.132600  0.974000 
+
+png("Rs_weight_FHSori_M.png",width=800,height=600)
+q=ggplot(rsweights_m,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="#6baed6",colour="black",binwidth=0.05)+geom_density(alpha=.3)
+q+geom_vline(xintercep=-0.00848)+ggtitle("Histograms of the right slope of weight in FHSorig males (211)")+theme(plot.title=element_text(size=18))+
+annotate("text",x=0.3,y=20,label="median = -0.0085",size=6)
+dev.off()
 
