@@ -53,9 +53,26 @@ library(ggplot2)
 library(epicalc)
 rsweight=read.csv("Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsweight.csv",head=T,as.is=T)
 #head(rsweight)
-rsweight$sex <- cut(rsweight$Sex.1, breaks=c(-Inf, 1.1, Inf), labels=c("males","females"))
+rsweight$Sex <- cut(rsweight$Sex.1, breaks=c(-Inf, 1.1, Inf), labels=c("males","females"))
 rsweight$c_rsw <- cut(rsweight$slp_weight, breaks=c(-Inf, -0.018, Inf), labels=c("controls","cases"))
 #head(rsweight)
-ggplot(rsweight,aes(x=slp_weight,fill=sex))+geom_histogram(fill="white",colour="black",binwidth=0.5,
-position="identity",alpha=0.4)+geom_density(alpha=.3)+geom_vline(xintercep=-0.018)+facet_grid(sex~.)
+table(rsweight$Sex,rsweight$c_rsw)
+#          controls cases
+#  males       1090   954
+#  females     1314  1246
+ggplot(rsweight,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.4,
+position="identity",alpha=0.4)+geom_density(alpha=.3)+geom_vline(xintercep=-0.018)+facet_grid(Sex~.)
+
+ind=read.csv("Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/assoc_ind.csv",head=T,as.is=T)
+rsweights=rsweight[rsweight$ID%in%ind$ID,]
+#nrow(rsweights)
+#[1] 636
+rsweights$c_rsw <- cut(rsweights$slp_weight, breaks=c(-Inf, -0.005, Inf), labels=c("controls","cases"))
+table(rsweights$Sex,rsweights$c_rsw)
+#           controls cases
+#  males        107   104
+#  females      180   245
+ggplot(rsweights,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.08)+
+geom_density(alpha=.3)+geom_vline(xintercep=-0.005)+facet_grid(Sex~.)
+write.csv(rsweights,file="Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsw_assoc.csv",row.names=F)
 
