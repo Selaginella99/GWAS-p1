@@ -118,3 +118,5 @@ ggplot(rsweight_p_m,aes(x=age2_weight2))+geom_histogram(fill="white",colour="bla
 ggplot(rsweight_p_f,aes(x=age2_weight2))+geom_histogram(fill="white",colour="black",binwidth=0.02)+xlim(-0.6,0.6)
 ggplot(rsweight_p,aes(x=age2_weight2,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.05)
 +facet_grid(Sex) ## but sex is an integer here...
+ggplot(rsweight_p, aes(x=age2_weight2, y=age1_weight2, color=Sex)) + 
+geom_point(shape=1) + geom_smooth(method=lm,se=FALSE,fullrange=TRUE) # Extend regression lines between coeffs of weight
