@@ -109,3 +109,12 @@ q=ggplot(rsweights_m,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="#6baed6",c
 q+geom_vline(xintercep=-0.00848)+ggtitle("Histograms of the right slope of weight in FHSorig males (211)")+theme(plot.title=element_text(size=18))+
 annotate("text",x=0.3,y=20,label="median = - 0.0085",size=6)
 dev.off()
+
+rsweight_p=read.csv("Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsweight_p.csv",head=T,as.is=T)
+rsweight_p_f=subset(rsweight_p,rsweight_p$Sex==2)
+rsweight_p_m=subset(rsweight_p,rsweight_p$Sex==1)
+
+ggplot(rsweight_p_m,aes(x=age2_weight2))+geom_histogram(fill="white",colour="black",binwidth=0.02)+xlim(-0.6,0.6)
+ggplot(rsweight_p_f,aes(x=age2_weight2))+geom_histogram(fill="white",colour="black",binwidth=0.02)+xlim(-0.6,0.6)
+ggplot(rsweight_p,aes(x=age2_weight2,fill=Sex))+geom_histogram(fill="white",colour="black",binwidth=0.05)
++facet_grid(Sex) ## but sex is an integer here...
