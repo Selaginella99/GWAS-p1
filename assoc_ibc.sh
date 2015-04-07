@@ -120,3 +120,6 @@ ggplot(rsweight_p,aes(x=age2_weight2,fill=Sex))+geom_histogram(fill="white",colo
 +facet_grid(Sex) ## but sex is an integer here...
 ggplot(rsweight_p, aes(x=age2_weight2, y=age1_weight2, color=Sex)) + 
 geom_point(shape=1) + geom_smooth(method=lm,se=FALSE,fullrange=TRUE) # Extend regression lines between coeffs of weight
+
+## extract unique columns (6-15) in file (map)
+uni_map=map[!duplicated(map[6:15]),]
