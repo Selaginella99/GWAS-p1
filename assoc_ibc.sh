@@ -92,8 +92,8 @@ summary(rsweights_f$slp_weight)
 
 png("Rs_weight_FHSori_F.png",width=800,height=600)
 p=ggplot(rsweights_f,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="#d6616b",colour="black",binwidth=0.06)+geom_density(alpha=.3)
-p+geom_vline(xintercep=-0.02665)+ggtitle("Histograms of the right slope of weight in FHSorig females (425)")+theme(plot.title=element_text(size=18))
-+annotate("text",x=0.5,y=40,label="median = 0.02665",size=6)
+p+geom_vline(xintercep=-0.02665)+ggtitle("Histograms of the right slope of weight in FHSorig females (425)")+
+theme(plot.title=element_text(size=18))+annotate("text",x=0.6,y=40,label="median = 0.02665",size=6)
 dev.off()
 
 rsweights_m=rsweights[rsweights$Sex=="males",]
@@ -107,7 +107,7 @@ summary(rsweights_m$slp_weight)
 png("Rs_weight_FHSori_M.png",width=800,height=600)
 q=ggplot(rsweights_m,aes(x=slp_weight,fill=Sex))+geom_histogram(fill="#6baed6",colour="black",binwidth=0.05)+geom_density(alpha=.3)
 q+geom_vline(xintercep=-0.00848)+ggtitle("Histograms of the right slope of weight in FHSorig males (211)")+theme(plot.title=element_text(size=18))+
-annotate("text",x=0.3,y=20,label="median = - 0.0085",size=6)
+annotate("text",x=0.5,y=15,label="median = - 0.0085",size=6)
 dev.off()
 
 rsweight_p=read.csv("Z:/Project/Framingham/Data/Phenotype/FHS/data/WEIGHT/RIGHT/rsweight_p.csv",head=T,as.is=T)
