@@ -123,3 +123,9 @@ geom_point(shape=1) + geom_smooth(method=lm,se=FALSE,fullrange=TRUE) # Extend re
 
 ## extract unique columns (6-15) in file (map)
 uni_map=map[!duplicated(map[6:15]),]
+
+## extract SNP markers from matched gene names
+nfkb1=chip.map[grepl('NFKB1',chip.map$RefSeq_hg18_Gene),]
+cat(chip.map[grepl('NFKB1',chip.map$RefSeq_hg18_Gene),'SNP_ID'],sep='; ')
+cat(chip.map[which(chip.map$RefSeq_hg18_Gene == 'NFKB1'), 'SNP_ID'], sep = '; ')
+
