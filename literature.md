@@ -6,3 +6,10 @@ from Douglas Hanahan and Robert A. Weinberg. Some supp [slides](http://www.slide
 [notes](http://www.stemcellworx.com/blog/wp-content/uploads/2013/09/Hallmarks-of-Aging-Why-Cell-Health-Is-Everything2.pdf)
 
 [*Genetics and epigenetics of aging and longevity*](http://www.tandfonline.com/doi/abs/10.4161/cc.28433#.VTWH1SFVhBc) using MetaCore
+
+A series of aging paper on [aging] (http://www.sciencedirect.com/science/journal/00928674/160/5) Volume 160, Issue 5, 26 February 2015, Pages 799, 801 with [introduction](http://www.sciencedirect.com/science/article/pii/S009286741500197X): 
+several classical [papers](http://www.ebiotrade.com/newsf/2015-1/201514121216384.htm)
+
+Promoting Health and Longevity through Diet: [From Model Organisms to Humans](http://www.cell.com/cell/fulltext/S0092-8674(15)00186-5)
+
+[Geroscience: Linking Aging to Chronic Disease](http://www.sciencedirect.com/science/article/pii/S009286741401366X)
