@@ -13,3 +13,7 @@ several classical [papers](http://www.ebiotrade.com/newsf/2015-1/201514121216384
 Promoting Health and Longevity through Diet: [From Model Organisms to Humans](http://www.cell.com/cell/fulltext/S0092-8674(15)00186-5)
 
 [Geroscience: Linking Aging to Chronic Disease](http://www.sciencedirect.com/science/article/pii/S009286741401366X)
+
+[Cancer and ageing](http://www.nature.com/nrm/journal/v8/n9/abs/nrm2242.html): convergent and divergent mechanisms 2007
+
+The common biology of [cancer and ageing](http://www.nature.com/nature/journal/v448/n7155/full/nature05985.html) 2007
