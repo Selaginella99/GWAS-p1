@@ -20,3 +20,8 @@ Promoting Health and Longevity through Diet: [From Model Organisms to Humans](ht
 [Cancer and ageing](http://www.nature.com/nrm/journal/v8/n9/abs/nrm2242.html): convergent and divergent mechanisms 2007
 
 The common biology of [cancer and ageing](http://www.nature.com/nature/journal/v448/n7155/full/nature05985.html) 2007
+
+[Cancer and ageing](http://www.nature.com/nrc/journal/v3/n5/full/nrc1073.html): rival demons 2003
+
+Perspectives [How ageing processes influence cancer](http://www.nature.com/nrc/journal/v13/n5/full/nrc3497.html) Nature Reviews Cancer 13, 357-365 (May 2013) 
+
