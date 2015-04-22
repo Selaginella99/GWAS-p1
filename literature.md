@@ -1,9 +1,12 @@
 [*Hallmarks of Cancer: The Next Generation*](http://www.sciencedirect.com/science/article/pii/S0092867411001279) 
-from Douglas Hanahan and Robert A. Weinberg. Some supp [slides](http://www.slideshare.net/karobi/boc-l4-the-hallmarks-of-cancer-km?next_slideshow=1)
-
+from Douglas Hanahan and Robert A. Weinberg. Some supp [slides](http://www.slideshare.net/karobi/boc-l4-the-hallmarks-of-cancer-km?next_slideshow=1):
+1) sustaining proliferative signaling, 2) evading growth, 3) suppressors, 4) resisting cell death, 5) enabling replicative immortality, 6) inducing angiogenesis, and 7) activating invasion and metastasis
 
 [*Hallmarks of Aging*](http://www.sciencedirect.com/science/article/pii/S0092867413006454#) and 
-[notes](http://www.stemcellworx.com/blog/wp-content/uploads/2013/09/Hallmarks-of-Aging-Why-Cell-Health-Is-Everything2.pdf)
+[notes](http://www.stemcellworx.com/blog/wp-content/uploads/2013/09/Hallmarks-of-Aging-Why-Cell-Health-Is-Everything2.pdf): 
+1) genomic instability, 2) telomere attrition, 3) epigenetic alterations, 4) loss of proteostasis, 5) deregulated nutrient sensing, 6) mitochondrial dysfunction, 7) cellular senescence, 8) stem cell exhaustion, and 9) altered intercellular communication
+
+
 
 [*Genetics and epigenetics of aging and longevity*](http://www.tandfonline.com/doi/abs/10.4161/cc.28433#.VTWH1SFVhBc) using MetaCore
 
