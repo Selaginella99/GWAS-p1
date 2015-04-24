@@ -33,6 +33,16 @@ Ageing: [Variety in old age](http://www.nature.com/nrg/journal/v9/n2/full/nrg230
 
 [Mechanisms of aging](http://www.nature.com/nrg/journal/v3/n3/full/nrg753.html): public or private? 2002
 
+[Omics technologies](http://www.nature.com/nrg/journal/v14/n9/full/nrg3553.html) and the study of human ageing, 2013
+
+[Senescence and aging](http://www.nature.com/onc/journal/v32/n43/full/onc2012640a.html): the critical roles of p53
+
+[A New Path](http://www.nature.com/scientificamerican/journal/v24/n1s/full/scientificamericansecrets0315-86.html) to Longevity, 2015;
+[Centenarians](http://www.nature.com/nature/journal/v492/n7427_supp/full/492S6a.html): Great expectations, 2012
+Old as time: [What we can learn from past attempts to treat aging](http://www.nature.com/nm/journal/v20/n12/full/nm1214-1362.html), 2014;
+Koschei the immortal and [anti-aging drugs](http://www.nature.com/cddis/journal/v5/n12/full/cddis2014520a.html), 2014; 
+[[Unlocking the Secrets of Longevity Genes](http://www.nature.com/scientificamerican/journal/v294/n3/full/scientificamerican0306-48.html), 2006]
+
 **Personal Precise Medicine**
 
 [Personalized genomic information](http://www.nature.com/nrg/journal/v11/n2/full/nrg2735.html) : preparing for the future of genetic medicine, 2010
