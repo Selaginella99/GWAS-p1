@@ -6,8 +6,6 @@ from Douglas Hanahan and Robert A. Weinberg. Some supp [slides](http://www.slide
 [notes](http://www.stemcellworx.com/blog/wp-content/uploads/2013/09/Hallmarks-of-Aging-Why-Cell-Health-Is-Everything2.pdf): 
 1) genomic instability, 2) telomere attrition, 3) epigenetic alterations, 4) loss of proteostasis, 5) deregulated nutrient sensing, 6) mitochondrial dysfunction, 7) cellular senescence, 8) stem cell exhaustion, and 9) altered intercellular communication
 
-
-
 [*Genetics and epigenetics of aging and longevity*](http://www.tandfonline.com/doi/abs/10.4161/cc.28433#.VTWH1SFVhBc) using MetaCore
 
 A series of aging paper on [aging] (http://www.sciencedirect.com/science/journal/00928674/160/5) Volume 160, Issue 5, 26 February 2015, Pages 799, 801 with [introduction](http://www.sciencedirect.com/science/article/pii/S009286741500197X): 
@@ -17,13 +15,28 @@ Promoting Health and Longevity through Diet: [From Model Organisms to Humans](ht
 
 [Geroscience: Linking Aging to Chronic Disease](http://www.sciencedirect.com/science/article/pii/S009286741401366X)
 
-[Cancer and ageing](http://www.nature.com/nrm/journal/v8/n9/abs/nrm2242.html): convergent and divergent mechanisms 2007
+[Cancer and ageing](http://www.nature.com/nrm/journal/v8/n9/abs/nrm2242.html): convergent and divergent mechanisms, 2007
 
-The common biology of [cancer and ageing](http://www.nature.com/nature/journal/v448/n7155/full/nature05985.html) 2007
+The common biology of [cancer and ageing](http://www.nature.com/nature/journal/v448/n7155/full/nature05985.html), 2007
 
-[Cancer and ageing](http://www.nature.com/nrc/journal/v3/n5/full/nrc1073.html): rival demons 2003
+Perspectives [How ageing *processes* influence cancer](http://www.nature.com/nrc/journal/v13/n5/full/nrc3497.html) Nature Reviews Cancer 13, 357-365 (May 2013) 
 
-[Biodemography](http://www.nature.com/nature/journal/v464/n7288/full/nature08984.html) of human ageing 2010
+[The genetics of ageing](http://www.nature.com/nature/journal/v464/n7288/full/nature08980.html), 2010
 
-Perspectives [How ageing processes influence cancer](http://www.nature.com/nrc/journal/v13/n5/full/nrc3497.html) Nature Reviews Cancer 13, 357-365 (May 2013) 
+[The place of genetics](http://www.nature.com/nrg/journal/v13/n8/full/nrg3290.html) in ageing research, 2012
 
+[Biodemography](http://www.nature.com/nature/journal/v464/n7288/full/nature08984.html) of human ageing, 2010
+
+Ageing: [Variety in old age](http://www.nature.com/nrg/journal/v9/n2/full/nrg2304.html), 2008
+
+[Cancer and ageing](http://www.nature.com/nrc/journal/v3/n5/full/nrc1073.html): rival demons, 2003
+
+[Mechanisms of aging](http://www.nature.com/nrg/journal/v3/n3/full/nrg753.html): public or private? 2002
+
+**Personal Precise Medicine**
+
+[Personalized genomic information](http://www.nature.com/nrg/journal/v11/n2/full/nrg2735.html) : preparing for the future of genetic medicine, 2010
+
+Bringing genome-wide association findings into [clinical use](http://www.nature.com/nrg/journal/v14/n8/full/nrg3523.html), 2013
+
+[The big medical data miss](http://www.nature.com/nrg/journal/v16/n5/full/nrg3943.html): challenges in establishing an open medical resource, 2013
