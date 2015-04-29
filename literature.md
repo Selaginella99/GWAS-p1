@@ -39,7 +39,7 @@ Ageing: [Variety in old age](http://www.nature.com/nrg/journal/v9/n2/full/nrg230
 
 [Why We Age: Evolution At Work](http://www.nature.com/scientificamerican/journal/v24/n1s/index.html#features), 2015 on *Scientific American*
 [A New Path](http://www.nature.com/scientificamerican/journal/v24/n1s/full/scientificamericansecrets0315-86.html) to Longevity, 2015;
-[The Oldest Old](http://www.nature.com/scientificamerican/journal/v24/n1s/full/scientificamericansecrets0315-100.html), 2015;
+[The Oldest Old](http://www.nature.com/scientificamerican/journal/v24/n1s/full/scientificamericansecrets0315-100.html), 2015 (*adaptive capacity & functional reserve*);
 [Centenarians](http://www.nature.com/nature/journal/v492/n7427_supp/full/492S6a.html): Great expectations, 2012;
 Old as time: [What we can learn from past attempts to treat aging](http://www.nature.com/nm/journal/v20/n12/full/nm1214-1362.html), 2014;
 Koschei the immortal and [anti-aging drugs](http://www.nature.com/cddis/journal/v5/n12/full/cddis2014520a.html), 2014; 
@@ -52,3 +52,6 @@ Koschei the immortal and [anti-aging drugs](http://www.nature.com/cddis/journal/
 Bringing genome-wide association findings into [clinical use](http://www.nature.com/nrg/journal/v14/n8/full/nrg3523.html), 2013
 
 [The big medical data miss](http://www.nature.com/nrg/journal/v16/n5/full/nrg3943.html): challenges in establishing an open medical resource, 2013
+
+Supplement
+The ageing [haematopoietic stem cell compartment](http://www.nature.com/nri/journal/v13/n5/full/nri3433.html), Nature Reviews Immunology, 2013
