@@ -60,3 +60,8 @@ Gerontology: [Will you still need me, will you still feed me?](http://www.nature
 Ageing: [Eternal obsession](http://www.nature.com/nature/journal/v517/n7535/full/517436a.html), 2015; 
 
 Cell papers: [1](http://www.nature.com/nature/journal/v509/n7502/full/509537a.html), A longer life with less pain - CGRP, 2014; [2](http://www.nature.com/nature/journal/v517/n7536/full/517530b.html),Less cancer protein, longer life - MYC, 2014
+
+Nature supp: 
+Ageing [2012](http://www.nature.com/nature/outlook/ageing/index.html#editorial), [2010](http://www.nature.com/nature/supplements/insights/ageing/index.html), [2006](http://www.nature.com/nature/supplements/collections/ageing/)
+
+Cancer [2014](http://www.nature.com/nature/outlook/cancer/index.html)
