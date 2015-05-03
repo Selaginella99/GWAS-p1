@@ -29,7 +29,7 @@ The common biology of [cancer and ageing](http://www.nature.com/nature/journal/v
 
 Ageing: [Variety in old age](http://www.nature.com/nrg/journal/v9/n2/full/nrg2304.html), 2008
 
-[Cancer and ageing](http://www.nature.com/nrc/journal/v3/n5/full/nrc1073.html): rival demons, 2003
+[Cancer and ageing](http://www.nature.com/nrc/journal/v3/n5/full/nrc1073.html): rival demons, 2003; [sup](http://www.nature.com/nature/journal/v505/n7481/full/nature12844.html#ref5): Cell biology: The beginning of the end
 
 [Mechanisms of aging](http://www.nature.com/nrg/journal/v3/n3/full/nrg753.html): public or private? 2002
 
@@ -54,4 +54,4 @@ Bringing genome-wide association findings into [clinical use](http://www.nature.
 [The big medical data miss](http://www.nature.com/nrg/journal/v16/n5/full/nrg3943.html): challenges in establishing an open medical resource, 2013
 
 Supplement
-The ageing [haematopoietic stem cell compartment](http://www.nature.com/nri/journal/v13/n5/full/nri3433.html), Nature Reviews Immunology, 2013
+The ageing [haematopoietic stem cell compartment](http://www.nature.com/nri/journal/v13/n5/full/nri3433.html), Nature Reviews Immunology, 2013; [Centenarians](http://www.nature.com/nature/journal/v492/n7427_supp/full/492S6a.html): Great expectations, 2012; Biomarkers and ageing: [The clock-watcher](http://www.nature.com/news/biomarkers-and-ageing-the-clock-watcher-1.15014), 2014
