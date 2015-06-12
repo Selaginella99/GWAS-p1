@@ -10,3 +10,10 @@ Paper [*Multi-omic data analysis using Galaxy*](http://www.nature.com/nbt/journa
 #####Comments
 
 Cancer: [smoother journeys](http://www.nature.com/nmeth/journal/v12/n4/full/nmeth.3332.html#ref1) for molecular data, 2015
+
+
+#####Courses
+Genomic Data Science from Johns Hopkins University
+
+[Big Data Science in Genomics](https://www.coursera.org/specialization/genomics/41/overview): Introduction to Genomic Technologies, Genomic Data Science with Galaxy, Command Line Tools for Genomic Data Science,
+Python for Genomic Data Science, Algorithms for DNA Sequencing, Bioconductor for Genomic Data Science, Statistics for Genomic Data Science, Genomic Data Science Capstone
