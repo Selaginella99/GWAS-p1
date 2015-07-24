@@ -16,3 +16,6 @@ HaploReg is a full featured genome browsers for developing hypotheses of the non
 [Hapmap](http://hapmap.ncbi.nlm.nih.gov/cgi-perl/gbrowse/hapmap28_B36/) is to identify and catalog genetic similarities and differences in human beings.
 
 A Compilation of Some Available [Software](http://www.genes.org.uk/software/LD-software.shtml) for [Linkage Disequilibrium Analysis](https://www.biostars.org/p/2909/).
+
+[ROH](http://www.math.mun.ca/~dapike/FF23utils/roh.php) - run of homozygosity, was illustrated in: 
+1. A Genome-Wide Homozygosity Association Study Identifies Runs of Homozygosity Associated with Rheumatoid Arthritis in the Human Major Histocompatibility Complex - [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034840), 2.Runs of Homozygosity: Association with Coronary Artery Disease and Gene Expression in Monocytes and Macrophages - [link](http://www.sciencedirect.com/science/article/pii/S0002929715002372), 3. Runs of Homozygosity in European Populations - [link](http://www.sciencedirect.com/science/article/pii/S000292970800445X) and etc. by [google](https://scholar.google.com/scholar?q=runs+of+homozygosity+%28ROHs%29&btnG=&hl=zh-CN&as_sdt=0%2C34&sciodt=0%2C34&cites=14780972002838425033&scipsc=) or [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=runs+of+homozygosity). 
