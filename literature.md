@@ -11,9 +11,11 @@ from Douglas Hanahan and Robert A. Weinberg. Some supp [slides](http://www.slide
 A series of aging paper on [aging] (http://www.sciencedirect.com/science/journal/00928674/160/5) Volume 160, Issue 5, 26 February 2015, Pages 799, 801 with [introduction](http://www.sciencedirect.com/science/article/pii/S009286741500197X): 
 several classical [papers](http://www.ebiotrade.com/newsf/2015-1/201514121216384.htm)
 
+Selling [long life](http://www.nature.com/nbt/journal/v33/n1/full/nbt.3108.html), Nature Biotechnology, 2015
+
 Promoting Health and Longevity through Diet: [From Model Organisms to Humans](http://www.cell.com/cell/fulltext/S0092-8674(15)00186-5)
 
-[Geroscience: Linking Aging to Chronic Disease](http://www.sciencedirect.com/science/article/pii/S009286741401366X)
+[Geroscience: Linking Aging to Chronic Disease](http://www.sciencedirect.com/science/article/pii/S009286741401366X), 2014 Cell
 
 [Cancer and ageing](http://www.nature.com/nrm/journal/v8/n9/abs/nrm2242.html): convergent and divergent mechanisms, 2007
 
