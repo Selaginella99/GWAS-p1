@@ -50,3 +50,6 @@ plink --file IBCqc --keep off.fid.txt --make-bed --out IBCoff
 plink --file IBCqc --keep third.fid.txt --make-bed --out IBCthird
 
 plink --bfile IBCori --recode --tab --out IBCori ## to check whether it is the right file...
+
+grep("^[Bb]", names(datafile), value=T) # http://stackoverflow.com/questions/7562233/how-do-i-select-variables-in-an-r-dataframe-whose-names-contain-a-particular-str
+grep("^POST", names(datafile), value=T) # http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html
