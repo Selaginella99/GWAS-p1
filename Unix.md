@@ -14,3 +14,5 @@ How to get full path of a file? [readlink](http://stackoverflow.com/questions/52
 awk 'pattern { action }' file > outfile: e.g. awk '$5 == male { print }' whole.txt > subset_male.txt,  awk '$9 < 0.05 {print}' assoc_m.assoc > select_ls_m.txt
 
 rm -rf #remove all the directory
+
+screen [simple list](http://www.cppblog.com/noflybird/archive/2010/04/27/113713.html), [advanced tips](http://www.ibm.com/developerworks/cn/linux/l-cn-screen/), [github tips](https://github.com/chenzhiwei/linux/tree/master/screen)
