@@ -75,3 +75,12 @@ Cell papers: [1](http://www.nature.com/nature/journal/v509/n7502/full/509537a.ht
 Nature supp: 
 Ageing: [2012](http://www.nature.com/nature/outlook/ageing/index.html#editorial), [2010](http://www.nature.com/nature/supplements/insights/ageing/index.html), [2006](http://www.nature.com/nature/supplements/collections/ageing/); 
 Cancer: [2014](http://www.nature.com/nature/outlook/cancer/index.html)
+
+2015 Reviews in SCIENCE & NATURE MEDICINE
+
+The biology of aging and the [goal](https://www.sciencemag.org/content/350/6265.toc) of increasing *healthy life span*: 
+[NAD+](https://www.sciencemag.org/content/350/6265/1208.full) in aging, metabolism, and neurodegeneration || 
+[Mitochondrial](https://www.sciencemag.org/content/350/6265/1204.full) dysfunction and longevity in animals: Untangling the knot || 
+Human [telomere](https://www.sciencemag.org/content/350/6265/1193.full) biology: A contributory and interactive factor in aging, disease risks, and protection || 
+[Stem cells](https://www.sciencemag.org/content/350/6265/1199.full) and healthy aging || 
+Healthy aging: The [ultimate preventative medicine](https://www.sciencemag.org/content/350/6265/1191.full)
