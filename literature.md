@@ -51,6 +51,8 @@ Koschei the immortal and [anti-aging drugs](http://www.nature.com/cddis/journal/
 
 [Healthy aging](http://www.sciencemag.org/content/350/6265.toc): The ultimate preventative medicine, SCIENCE, REVIEW, 2015.
 
+Aging: [toward avoiding the inevitable](http://www.nature.com/nm/journal/v21/n12/full/nm.4009.html), Nature Medicine [Focus on Aging](http://www.nature.com/subjects/ageing): translational med, drug aging, proteostasis, metabolism, cell senescence, 2015
+
 **Personal Precise Medicine**
 
 [Personalized genomic information](http://www.nature.com/nrg/journal/v11/n2/full/nrg2735.html) : preparing for the future of genetic medicine, 2010
