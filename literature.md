@@ -37,7 +37,7 @@ Ageing: [Variety in old age](http://www.nature.com/nrg/journal/v9/n2/full/nrg230
 
 [Mechanisms of aging](http://www.nature.com/nrg/journal/v3/n3/full/nrg753.html): public or private? 2002
 
-[Omics technologies](http://www.nature.com/nrg/journal/v14/n9/full/nrg3553.html) and the study of human ageing, 2013
+[**Omics** technologies](http://www.nature.com/nrg/journal/v14/n9/full/nrg3553.html) and the study of human ageing, 2013; Identifying the genomic determinants of aging and longevity in human population studies: [Progress and challenges](http://onlinelibrary.wiley.com/doi/10.1002/bies.201200148/full), 2013. Integration of ‘**omics**’ data in aging research: [from biomarkers to systems biology](http://onlinelibrary.wiley.com/doi/10.1111/acel.12386/full), 2015
 
 [Senescence and aging](http://www.nature.com/onc/journal/v32/n43/full/onc2012640a.html): the critical roles of p53
 
