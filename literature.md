@@ -8,6 +8,8 @@ from Douglas Hanahan and Robert A. Weinberg. Some supp [slides](http://www.slide
 [notes](http://www.stemcellworx.com/blog/wp-content/uploads/2013/09/Hallmarks-of-Aging-Why-Cell-Health-Is-Everything2.pdf): 
 1) genomic instability, 2) telomere attrition, 3) epigenetic alterations, 4) loss of proteostasis, 5) deregulated nutrient sensing, 6) mitochondrial dysfunction, 7) cellular senescence, 8) stem cell exhaustion, and 9) altered intercellular communication
 
+The [quest for genetic determinants of human longevity](http://www.nature.com/nrg/journal/v7/n6/full/nrg1871.html): challenges and insights, Nature, 2006
+
 [*Genetics and epigenetics of aging and longevity*](http://www.tandfonline.com/doi/abs/10.4161/cc.28433#.VTWH1SFVhBc) using MetaCore
 
 A series of aging paper on [aging] (http://www.sciencedirect.com/science/journal/00928674/160/5) Volume 160, Issue 5, 26 February 2015, Pages 799, 801 with [introduction](http://www.sciencedirect.com/science/article/pii/S009286741500197X): 
