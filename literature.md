@@ -19,9 +19,7 @@ Selling [long life](http://www.nature.com/nbt/journal/v33/n1/full/nbt.3108.html)
 
 Promoting Health and Longevity through Diet: [From Model Organisms to Humans](http://www.cell.com/cell/fulltext/S0092-8674(15)00186-5)
 
-[Geroscience: Linking Aging to Chronic Disease](http://www.sciencedirect.com/science/article/pii/S009286741401366X), 2014 Cell
-
-[Cancer and ageing](http://www.nature.com/nrm/journal/v8/n9/abs/nrm2242.html): convergent and divergent mechanisms, 2007
+[Cancer and ageing](http://www.nature.com/nrm/journal/v8/n9/abs/nrm2242.html): convergent and divergent mechanisms, Nature, 2007
 
 The common biology of [cancer and ageing](http://www.nature.com/nature/journal/v448/n7155/full/nature05985.html), 2007
 
@@ -45,6 +43,8 @@ Ageing: [Variety in old age](http://www.nature.com/nrg/journal/v9/n2/full/nrg230
 [Epigenome Roadmap](http://www.nature.com/collections/vbqgtr), Epigenomics: Roadmap for regulation [News](http://www.nature.com/nature/journal/v518/n7539/full/518314a.html). 
 
 [GTEx detects genetic effects](http://www.sciencemag.org/content/348/6235/640.full), from  Genotype-Tissue Expression ([GTEx](http://gtexportal.org/home/)) Consortium, Science, 2015
+
+[HMDB](http://nar.oxfordjournals.org/content/35/suppl_1/D521.full), [HMDB 3.0](http://nar.oxfordjournals.org/content/early/2012/11/16/nar.gks1065.full): the Human Metabolome Database
 
 [Senescence and aging](http://www.nature.com/onc/journal/v32/n43/full/onc2012640a.html): the critical roles of p53
 
