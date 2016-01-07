@@ -44,6 +44,8 @@ Ageing: [Variety in old age](http://www.nature.com/nrg/journal/v9/n2/full/nrg230
 
 [GTEx detects genetic effects](http://www.sciencemag.org/content/348/6235/640.full), from  Genotype-Tissue Expression ([GTEx](http://gtexportal.org/home/)) Consortium, Science, 2015
 
+Epigenome Roadmap & ENCODE belong to [IHEC](http://ihec-epigenomes.org/research/projects/), its major goal – mapping 1000 epigenomes. Reference from [Neuroepigenomics](http://www.sciencedirect.com/science/article/pii/S2214784514000024): resources, obstacles, and opportunities, Neuroepigenetics, 2015
+
 [HMDB](http://nar.oxfordjournals.org/content/35/suppl_1/D521.full), [HMDB 3.0](http://nar.oxfordjournals.org/content/early/2012/11/16/nar.gks1065.full): the Human Metabolome Database
 
 [Senescence and aging](http://www.nature.com/onc/journal/v32/n43/full/onc2012640a.html): the critical roles of p53
