@@ -64,6 +64,8 @@ Koschei the immortal and [anti-aging drugs](http://www.nature.com/cddis/journal/
 
 Aging: [toward avoiding the inevitable](http://www.nature.com/nm/journal/v21/n12/full/nm.4009.html), Nature Medicine [Focus on Aging](http://www.nature.com/subjects/ageing): translational med, drug aging, proteostasis, metabolism, cell senescence, 2015
 
+[Top 10 Cause of Death and Associated Risk Factors in US](http://jama.jamanetwork.com/article.aspx?articleID=2482313), [When and Why](http://jama.jamanetwork.com/article.aspx?articleid=2482307&resultClick=3) People Die in the United States, 1990-2013, [JAMA Infographic](http://jama.jamanetwork.com/solr/searchresults.aspx#q=JAMA+Infographic&fd_JournalID=67&f_JournalDisplayName=JAMA&SearchSourceType=3&sort=Most+Recent)
+
 **Personal Precise Medicine**
 
 [Personalized genomic information](http://www.nature.com/nrg/journal/v11/n2/full/nrg2735.html) : preparing for the future of genetic medicine, 2010
