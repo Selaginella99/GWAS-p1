@@ -66,6 +66,8 @@ Aging: [toward avoiding the inevitable](http://www.nature.com/nm/journal/v21/n12
 
 [Top 10 Cause of Death and Associated Risk Factors](http://jama.jamanetwork.com/article.aspx?articleID=2482313) in US, 2013; [When and Why](http://jama.jamanetwork.com/article.aspx?articleid=2482307&resultClick=3) People Die in the United States, 1990-2013, [JAMA Infographic](http://jama.jamanetwork.com/solr/searchresults.aspx#q=JAMA+Infographic&fd_JournalID=67&f_JournalDisplayName=JAMA&SearchSourceType=3&sort=Most+Recent), 2016
 
+[Cancer statistics in *China*](http://onlinelibrary.wiley.com/doi/10.3322/caac.21338/full), 2015. from CA: Cancer J. Clin. [Statistics](http://onlinelibrary.wiley.com/journal/10.3322/(ISSN)1542-4863/homepage/statistics.htm); Cancerindex data for [*China*](http://www.cancerindex.org/China), funded by Simon Cotterill
+
 **Personal Precise Medicine**
 
 [Personalized genomic information](http://www.nature.com/nrg/journal/v11/n2/full/nrg2735.html) : preparing for the future of genetic medicine, 2010
