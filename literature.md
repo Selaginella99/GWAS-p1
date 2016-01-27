@@ -68,6 +68,8 @@ Aging: [toward avoiding the inevitable](http://www.nature.com/nm/journal/v21/n12
 
 [Cancer statistics in *China*](http://onlinelibrary.wiley.com/doi/10.3322/caac.21338/full), 2015. from CA: Cancer J. Clin. [Statistics](http://onlinelibrary.wiley.com/journal/10.3322/(ISSN)1542-4863/homepage/statistics.htm); Cancerindex data for [*China*](http://www.cancerindex.org/China), funded by Simon Cotterill
 
+By the Numbers: [Cause of Death in USA](https://public.tableau.com/s/gallery/numbers-cause-death-usa) by tableau; Further into causes of death in US: [The geographical difference](http://vizdiff.blogspot.com/2014/11/further-into-causes-of-death-in-us.html) from [Alexander Mou](https://twitter.com/aleksoft)
+
 **Personal Precise Medicine**
 
 [Personalized genomic information](http://www.nature.com/nrg/journal/v11/n2/full/nrg2735.html) : preparing for the future of genetic medicine, 2010
