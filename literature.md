@@ -105,3 +105,16 @@ The biology of aging and the [goal](https://www.sciencemag.org/content/350/6265.
 Human [telomere](https://www.sciencemag.org/content/350/6265/1193.full) biology: A contributory and interactive factor in aging, disease risks, and protection || 
 [Stem cells](https://www.sciencemag.org/content/350/6265/1199.full) and healthy aging || 
 Healthy aging: The [ultimate preventative medicine](https://www.sciencemag.org/content/350/6265/1191.full)
+
+**WEG** - Whole-Genome Sequencing of [a Healthy Aging Cohort](http://www.cell.com/cell/fulltext/S0092-8674(16)30278-1), CELL,2016
+
+Dynamics of biomarkers in relation to aging and mortality
+
+
+[James Vaupel](http://user.demogr.mpg.de/jwv/cgi-bin/publications.plx?s=3), the Max Planck Institute for Demographic Research, Germany. Most-cited publications in Google Scholar.
+[Broken Limits to Life Expectancy}(http://science.sciencemag.org/content/296/5570/1029.full), Science, 2002. 
+[Biodemographic Trajectories of Longevity](http://science.sciencemag.org/content/280/5365/855.full), Science, 1998
+Ageing populations: [the challenges ahead](http://www.sciencedirect.com/science/article/pii/S0140673609614604), Lancet, 2009
+[Biodemography of human ageing}(http://www.nature.com/nature/journal/v464/n7288/full/nature08984.html), Nature, 2010
+The quest for [genetic determinants of human longevity](http://www.nature.com/nrg/journal/v7/n6/abs/nrg1871.html ): challenges and insights, Nature Reviews Genetics, 2006
+(Twin studies indicate that approximately 25% of the variation in adult lifespan is caused by genetic differences between individuals, and that genetic influences on lifespan are minimal before the age of 60 but increase after this age.)
