@@ -112,9 +112,9 @@ Dynamics of biomarkers in relation to aging and mortality
 
 
 [James Vaupel](http://user.demogr.mpg.de/jwv/cgi-bin/publications.plx?s=3), the Max Planck Institute for Demographic Research, Germany. Most-cited publications in Google Scholar.
-[Broken Limits to Life Expectancy}(http://science.sciencemag.org/content/296/5570/1029.full), Science, 2002. 
+[Broken Limits to Life Expectancy](http://science.sciencemag.org/content/296/5570/1029.full), Science, 2002. 
 [Biodemographic Trajectories of Longevity](http://science.sciencemag.org/content/280/5365/855.full), Science, 1998
 Ageing populations: [the challenges ahead](http://www.sciencedirect.com/science/article/pii/S0140673609614604), Lancet, 2009
-[Biodemography of human ageing}(http://www.nature.com/nature/journal/v464/n7288/full/nature08984.html), Nature, 2010
+[Biodemography of human ageing](http://www.nature.com/nature/journal/v464/n7288/full/nature08984.html), Nature, 2010
 The quest for [genetic determinants of human longevity](http://www.nature.com/nrg/journal/v7/n6/abs/nrg1871.html ): challenges and insights, Nature Reviews Genetics, 2006
 (Twin studies indicate that approximately 25% of the variation in adult lifespan is caused by genetic differences between individuals, and that genetic influences on lifespan are minimal before the age of 60 but increase after this age.)
